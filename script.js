@@ -22,7 +22,7 @@ window.addEventListener("load", () => {
             .querySelector(".cover-content")
             .classList.add("show");
 
-    }, 8000); // 15 detik
+    }, 11500); // 15 detik
 
 });
 
